@@ -1,0 +1,17 @@
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\bin\Debug\net6.0-windows\Average_Calculation.exe
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\bin\Debug\net6.0-windows\Average_Calculation.deps.json
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\bin\Debug\net6.0-windows\Average_Calculation.runtimeconfig.json
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\bin\Debug\net6.0-windows\Average_Calculation.dll
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\bin\Debug\net6.0-windows\Average_Calculation.pdb
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.Form1.resources
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.AssemblyInfo.cs
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.dll
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\refint\Average_Calculation.dll
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.pdb
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\Average_Calculation.genruntimeconfig.cache
+C:\Users\burak\Desktop\Average_Calculation\Average_Calculation\obj\Debug\net6.0-windows\ref\Average_Calculation.dll
